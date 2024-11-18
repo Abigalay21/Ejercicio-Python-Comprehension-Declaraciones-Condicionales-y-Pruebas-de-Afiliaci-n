@@ -1,0 +1,1 @@
+# Ejercicio-Python-Comprehension-Declaraciones-Condicionales-y-Pruebas-de-Afiliaci-n
